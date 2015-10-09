@@ -1,0 +1,4 @@
+01-efi_variable_t.patch
+02-bootorder.patch
+03-read_vars.patch
+04-optional_data_len.patch
